@@ -1,3 +1,1 @@
-[![Discord](https://discord.c99.nl/widget/theme-4/1066171848640958487.png)](https://discord.com/users/1066171848640958487)
-####
-I'm interested in game development🎮 and space exploration🚀
+[![Discord](https://lanyard.cnrad.dev/api/1066171848640958487)](https://discord.com/users/1066171848640958487)
